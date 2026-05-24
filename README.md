@@ -55,9 +55,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- Add screenshot later if you want -->
-<!-- ![Screenshot][product-screenshot] -->
-
 This repository contains a chatbot inspired by the classic ELIZA program, one of the earliest natural language processing systems.
 
 The chatbot uses pattern matching and keyword recognition techniques to simulate conversations with the user through a terminal interface.
