@@ -1,0 +1,10 @@
+# CLion / build
+cmake-build-*/
+.idea/
+
+# unwanted folder
+arq/
+
+# optional: compiled files
+*.o
+*.exe
