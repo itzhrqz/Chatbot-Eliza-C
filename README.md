@@ -179,7 +179,7 @@ Due to the academic nature of this project, all comments are written in Portugue
 Developed collaboratively by:
 
 * Henrique Carvalho ([@itzhrqz](https://github.com/itzhrqz))
-* Diogo Reis        ([@diogo-reis-ist](https://github.com/diogo-reis-ist))
+* Diogo Reis        ([@x-dgR-x](https://github.com/x-dgR-x))
 
 <!-- Optional GitHub profile links -->
 <!-- * [Your Name](https://github.com/your_username) -->
